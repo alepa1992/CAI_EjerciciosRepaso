@@ -1,0 +1,7 @@
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\bin\Debug\EjercicioIII.exe.config
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\bin\Debug\EjercicioIII.exe
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\bin\Debug\EjercicioIII.pdb
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\obj\Debug\EjercicioIII.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\obj\Debug\EjercicioIII.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\obj\Debug\EjercicioIII.exe
+C:\Users\Alejandro\Desktop\Facu\CAI\CAI_EjerciciosRepaso\EjercicioIII\EjercicioIII\obj\Debug\EjercicioIII.pdb
